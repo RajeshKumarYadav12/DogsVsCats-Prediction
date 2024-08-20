@@ -74,5 +74,16 @@ if uploaded_file is not None:
         st.subheader("Prediction Details")
         st.write(f"**Prediction:** {predicted_class}")
         st.write(f"**Confidence:** {confidence:.2f}")
+        
 
-# To run the app, use: streamlit run app.py
+
+
+
+
+
+
+
+
+
+
+
